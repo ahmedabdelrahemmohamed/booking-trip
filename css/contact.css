@@ -1,0 +1,175 @@
+.profile-main h3{
+font-size: 18px;
+    font-weight: normal;
+    margin-top: 0px;
+    border-bottom: 1px solid #f1f1f1;
+    padding-bottom: 10px;
+}
+.cont{
+	margin-top:3%;
+}
+.profile-main{
+padding: 18px;
+}
+ .profile-main .profile-in form textarea{
+height: 101px;
+ }
+ .profile-main .profile-in form .btn{
+	 background: #f1f1f1;
+    color: black;
+    border: none;
+    text-transform: none;
+ }
+  .profile-main .profile-in form .btn:hover{
+      background:#008fef;
+  }
+   .pull-left{
+    margin-left: 13%;
+    padding-top: 6%;
+  }
+  
+  .imag{
+      width: 100%
+  }
+  .pt20{
+      padding-top: 0px;
+  }
+  .pt20 .btn{
+    border-radius: 26px;
+  }
+  
+  .uou-block-4a {
+    
+    position: relative;
+    padding: 16px 0;
+  }
+  .secondary.uou-block-4a.dark {
+    background: #fafafa;
+  }
+  .cn{
+      padding-left: 0;
+      padding-right: 0;
+  }
+  .pnb{
+    height: 22%;
+    width: 100%;
+    right: 0;
+    background: white;
+    margin-top: 0;
+    border: 1px solid #e6ecf0;
+   
+    position: relative;
+    margin-bottom: 10;
+    box-shadow: 0 0 5px rgba(206, 206, 206, 1);
+    border-radius: 5px;
+    
+  }
+  .compny-profile .profile-company-content .tab-content h3 {
+    font-size: 15px;
+    font-weight: normal;
+    margin-top: 0px;
+    border-bottom: 1px solid #f1f1f1;
+    padding: 0px;
+    padding-bottom: 9px;
+    margin-bottom: 5px;
+    
+  }
+.rate {
+        width: 100%;
+        margin-top: 8%;
+        padding: 8px;
+        margin-left: 0;
+       
+}
+.profile-company-content .rate {
+    position: relative;
+    padding: 11px;
+    display: inline-block;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(206, 206, 206, 1);
+}
+.soc{
+	margin-left: 0;{
+		
+	}
+}
+.sf-menu{
+    margin: 15px 0 24px;
+}
+.social-contact{
+	background: white;
+	padding: 10px;
+    margin-top: 14%;
+}
+.line{
+	margin-top: 13px;
+    margin-bottom: 18px;
+    border: 0;
+   
+    border-top: 0.3px solid #d0cccc;
+}
+.uou-block-2b .nav .sf-menu > li > .my-menu{
+	width: 311px;
+	box-shadow: 0 0 5px rgba(206, 206, 206, 1);
+}
+.uou-block-2b .nav .sf-menu > li > .my-menu li{
+	border-bottom: 1px solid #c8c5c5;
+}
+ 
+.uou-block-2b .nav .sf-menu > li > .my-menu li a {
+    background: white;
+    height: 74px;
+    padding: 12px 15px;
+    min-width: 160px;
+    color: black;
+    font-size: 14px;
+	font-weight: 300 !important;
+}
+.uou-block-2b .nav .sf-menu > li > .my-menu li a .ms{
+	display: inline;
+}
+.uou-block-2b .nav .sf-menu > li > .my-menu li a h6{
+	margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.img-rounded1 {
+    vertical-align: middle;
+    margin-right: 10px;
+    width: 47px;
+    height: 47px;
+    float: left;
+    margin-top: 2px;
+    border-radius: 50%;
+}
+.flexslider .slides .s-img{
+	height: 205px;
+}
+.btn-rs{
+	width: 19%;
+    line-height: 1;
+}
+.my-menu{
+	background: #fdfdfd;
+    box-shadow: 0 0 5px rgba(206, 206, 206, 1);
+    width: 22%;
+	/*display:none;*/
+}
+.my-menu:click{
+	display: block;
+}
+.my-menu li{
+	background: #f7f7f7;
+	border-bottom: 1px solid #cac4c4;
+	
+}
+.my-menu li a{
+	min-width: 160px;
+}
+.m-menue{
+	display: inline;
+    float: right;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
